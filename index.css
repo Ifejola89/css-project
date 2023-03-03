@@ -1,0 +1,9 @@
+.don-p{
+    display: inline;
+    margin: 30px;
+    padding: 20px;
+}
+.pilly{
+    flex-direction: row;
+    padding: 30px;
+}
